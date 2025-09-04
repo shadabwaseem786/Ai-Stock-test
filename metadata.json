@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock Signal",
+  "description": "A web application that uses the Gemini API to analyze mock stock market data and generate trading signals (BUY, SELL, HOLD). It features a real-time dashboard with sparkline charts and auto-refreshing data for a list of stocks.",
+  "requestFramePermissions": []
+}
